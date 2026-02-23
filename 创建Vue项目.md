@@ -927,6 +927,7 @@ touch .eslintrc.cjs
 git init
 git add .
 git commit -m "feat: 初始化项目"
+git push  推送远程代码仓库
 
 # 7. 启动项目
 npm run dev
